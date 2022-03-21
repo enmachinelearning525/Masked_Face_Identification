@@ -2,6 +2,8 @@
 RMFD/
 CMFD/
 IMFD/
+CMFD_google/
+IMFD_google/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

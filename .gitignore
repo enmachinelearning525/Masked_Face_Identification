@@ -1,9 +1,8 @@
 # Data Paths
-RMFD/
+RMFD/AFDB_face_dataset/
+RMFD/AFDB_masked_face_dataset/
 CMFD/
 IMFD/
-CMFD_google/
-IMFD_google/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

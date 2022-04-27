@@ -3,6 +3,8 @@ RMFD/AFDB_face_dataset/
 RMFD/AFDB_masked_face_dataset/
 CMFD/
 IMFD/
+CMFD_google_temp/
+IMFD_google_temp/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
